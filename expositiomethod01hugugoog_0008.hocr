@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./expositiomethod01hugugoog_0008.png"; bbox 0 0 2594 4286; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 161 1419 1147 1902">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 161 1419 1147 1902">
+     <span class='ocr_line' id='line_1_1' title="bbox 275 1419 1033 1666; baseline 0.003 -81"><span class='ocrx_word' id='word_1_1' title='bbox 275 1425 536 1587; x_wconf 67' lang='lat' dir='ltr'>mosfflo</span> <span class='ocrx_word' id='word_1_2' title='bbox 570 1492 925 1666; x_wconf 56' lang='grc' dir='ltr'><strong>ΜΕΤΗΟΜΟΑν</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1031 1419 1033 1423; x_wconf 41' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 161 1758 1147 1902; baseline -0.01 -1"><span class='ocrx_word' id='word_1_4' title='bbox 161 1759 445 1902; x_wconf 68' lang='grc' dir='ltr'><strong>«ῙΠΒἸΞ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 510 1758 975 1894; x_wconf 75' lang='lat' dir='ltr'><strong>CANONICI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1145 1759 1147 1762; x_wconf 38' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 170 2093 860 2144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 170 2093 860 2144">
+     <span class='ocr_line' id='line_1_3' title="bbox 170 2093 860 2144; baseline 0 -5"><span class='ocrx_word' id='word_1_7' title='bbox 170 2103 175 2118; x_wconf 84' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 224 2134 229 2139; x_wconf 95' lang='grc'>.</span> <span class='ocrx_word' id='word_1_9' title='bbox 262 2095 378 2142; x_wconf 62' lang='lat' dir='ltr'><strong>&amp;funus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 397 2095 609 2144; x_wconf 70' lang='lat' dir='ltr'><strong>emulcfflnus</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 633 2093 860 2142; x_wconf 71' lang='lat' dir='ltr'><strong>AccoumonATA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1302 4286">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1302 4286">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1302 4286; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1302 4286; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
